@@ -4,7 +4,7 @@ Here you will find all the Projects I have worked on in my spare-time
 
 ## Python US Jobs EDA & Visualization: 
 contains examples of data cleaning and data visualization using Bar Charts, Pie Plots etc
-Notebook Link: 
+Notebook Link: [Python US Jobs EDA & Visualization.ipynb](Python US Jobs EDA & Visualization.ipynb)
 
 
 ## Tableau House Dashboard : 
