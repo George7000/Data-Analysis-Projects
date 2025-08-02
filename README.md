@@ -7,6 +7,10 @@ Examples of data cleaning and data visualization using Bar Charts, Pie Plots etc
 - Counts of Job Locations / Companies for Data Analyst in the US
 - WFH / Health Insurance / Degree Requirement Pie charts
 - Likelihood of Most Requested Skills in US Job Postings
+- Trending Skills for Data Analysts in US
+- Salary Distribution in US
+- Top 10 Highest Paid Skills / Most In-demand Skils in US
+- Most Optimal Skills for Data Analysts in US
 Link: [Python_US_Jobs_Analysis.ipynb](Python_US_Jobs_Analysis.ipynb)
 
 ## Tableau House Dashboard : 
