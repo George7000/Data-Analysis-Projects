@@ -11,6 +11,7 @@ Examples of data cleaning and data visualization using Bar Charts, Pie Plots etc
 - Salary Distribution in US
 - Top 10 Highest Paid Skills / Most In-demand Skils in US
 - Most Optimal Skills for Data Analysts in US
+
 Link: [Python_US_Jobs_Analysis.ipynb](Python_US_Jobs_Analysis.ipynb)
 
 ## Tableau House Dashboard : 
@@ -27,5 +28,6 @@ Link: [Tableau House Dashboard](https://public.tableau.com/app/profile/george.va
 In this Excel, you will see the Fitness data and it's corresponding charts and pivots created addressing below points:
 - Year on Year growth for each  Supplier and Brand
 - Line Chart showing Market share for different Brands over the years ( slicer added for categories: Airbike, Rowing Machine, Treadmill)
-- Moving total for the month for each Supplier, Brand and Category combination.
+- Moving total for the month for each Supplier, Brand and Category combination
+
 Link: [Fitness_data_analysis_exercise_final.xlsx](Fitness_data_analysis_exercise_final.xlsx)
