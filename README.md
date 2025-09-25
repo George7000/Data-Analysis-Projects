@@ -24,6 +24,18 @@ Use filters from Calendar / Year Built / Sqft Living / Sqft Lot
 
 Link: [Tableau House Dashboard](https://public.tableau.com/app/profile/george.vadakedath/viz/TableauHouseDashboard/KingCountySales)
 
+## Tableau Airways Review Dashboard : 
+Used Tableau Public to visualise a British Airways Review dashboard showing Overall rating and also, ratings based on different metrics in airlines (Food, Cabin Service, Value and others)
+**Visualizations :**
+- Overall Rating of British Airways across metrics
+- Average Rating by Month
+- Average Rating by Country
+- Average Rating by Aircrafts 
+Use filters from Aircraft type / Continent / Seat Type / Traveller Type / Month / Type of Rating Metric
+
+Link: [Tableau Airways Review Dashboard](https://public.tableau.com/app/profile/george.vadakedath/viz/Tableau_Airways_review_dashboard/Dashboard1)
+
+
 ## Fitness_data_analysis_exercise_final : 
 In this Excel, you will see the Fitness data and it's corresponding charts and pivots created addressing below points:
 - Year on Year growth for each  Supplier and Brand
