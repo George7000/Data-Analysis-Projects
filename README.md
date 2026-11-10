@@ -2,6 +2,19 @@
 
 Exploring insights, one dataset at a time. Welcome to my collection of data analysis projects—curated, coded, and crafted in my spare time. Dive in to see how I transform raw data into meaningful stories!
 
+## Credit Card Financial Dashboard (SQL & Power BI):
+Examples of data analysis, data transformation and interactive dashboard development using MySQL and Power BI, highlighting the following Visualizations:
+- Revenue and Transaction Amount Analysis
+- Total Transaction Count and Transaction Volume
+- Customer Acquisition Cost and Credit Limit Analysis
+- Customer Segmentation by Card Category
+- Quarterly and Weekly Revenue Trends
+- Total Revolving Balance and Average Credit Utilization
+- Transaction Analysis by Expenditure Type
+- Customer Delinquency Analysis
+
+Key Financial Performance Metrics and KPIs
+
 ## Python US Jobs EDA & Visualization: 
 Examples of data cleaning and data visualization using Bar Charts, Pie Plots etc showing below **Visualizations :**
 - Counts of Job Locations / Companies for Data Analyst in the US
